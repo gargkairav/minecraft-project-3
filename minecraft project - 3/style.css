@@ -1,0 +1,41 @@
+.body_background 
+{
+    background-image: url("https://imgix.bustle.com/uploads/image/2020/8/5/d1c88f12-843b-4299-8d43-aae0df59c030-avengers-5.jpg?w=1200&h=630&q=70&fit=crop&crop=faces&fm=jpg");
+    background-position: center;
+    background-size: cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: rgb(255, 0, 0); 
+    border-style:ridge;
+}
+
+h2
+{
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+ }
+h3
+{
+	display: inline-block;
+}
+span
+{
+	color: rgb(255, 0, 0);	
+}
+a
+{
+	text-decoration: none;
+	font-size: 20px;
+	padding: 10px;
+    float: left;
+    border-radius: 10px;
+}
+#head_info
+{
+	width: 600px;
+	border-radius: 10px;
+	margin-bottom: 10px;
+}
